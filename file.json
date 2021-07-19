@@ -1,0 +1,42 @@
+[
+    {
+        "abbr": "JA",
+        "name": ["java","javascript"]
+    },
+    {
+        "abbr": "PY",
+        "name": "Python"
+    },
+    {
+        "abbr": "H",
+        "name": "HTML"
+    },
+    {
+        "abbr": "Cs",
+        "name": "CSS"
+    },
+    {
+        "abbr": "BO",
+        "name": "Bootstrap"
+    },
+    {
+        "abbr": "WE",
+        "name": "Web Development"
+    },
+    {
+        "abbr": "FR",
+        "name": "Frontend Development"
+    },
+    {
+        "abbr": "SE",
+        "name": "Serverside Development"
+    },
+    {
+        "abbr": "C+",
+        "name": "C++"
+    },
+    {
+        "abbr": "DE",
+        "name": "Devops"
+    }
+]
